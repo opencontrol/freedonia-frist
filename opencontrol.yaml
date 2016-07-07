@@ -1,0 +1,10 @@
+schema_version: "1.0.0"
+name: FRIST-800-53 Standards and FredRAMP Certs"
+metadata:
+  description: "FRIST Standards and Certs"
+  maintainers:
+    - pburkholder@pobox.com
+standards:
+  - ./standards/FRIST-800-53.yaml
+certifications:
+  - ./certifications/FredRAMP-low.yaml
