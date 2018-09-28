@@ -1,8 +1,0 @@
-schema_version: "1.0.0"
-name: FredRAMP Certifications
-metadata:
-  description: "FredRAMP Certifications"
-  maintainers:
-    - pburkholder@pobox.com
-standards:
-  - ./FredRAMP-low.yaml
